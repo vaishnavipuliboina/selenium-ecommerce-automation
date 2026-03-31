@@ -1,0 +1,1 @@
+Selenium WebDriver + TestNG automation framework using POM. Covers end-to-end e-commerce flows like registration, cart, and checkout. Includes explicit waits for stability, AutoIt for file upload, DDT with Excel, and TestNG reporting with validations and screenshots.
