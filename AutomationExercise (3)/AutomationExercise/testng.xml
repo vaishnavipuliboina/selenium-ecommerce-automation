@@ -1,0 +1,16 @@
+<suite name="AutomationExercise Suite">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="Tests">
+        <classes>
+            <class name="tests.ProductTest"/>
+            <class name="tests.LoginTest"/>
+            <class name="tests.UITest"/>
+             <class name="tests.E2ETest"/>
+        </classes>
+    </test>
+
+</suite>
